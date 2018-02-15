@@ -23,7 +23,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 1867
+  controlID: 3575
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -47,7 +47,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 325
-    y: 92
+    y: 19
     width: 761
     height: 430
   m_PersistentViewDataDictionary: {fileID: 0}
@@ -71,7 +71,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 1
+    m_EnableMouseInput: 0
     m_EnableSliderZoom: 0
     m_UniformScale: 1
     m_UpDirection: 1
@@ -124,7 +124,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 1846
+  controlID: 3576
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -148,7 +148,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 1847
+  controlID: 3539
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -165,7 +165,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 323
+    width: 327
     height: 451
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
@@ -198,14 +198,14 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 92
-    width: 321
+    width: 325
     height: 430
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: be56ffff7857ffff9458ffffa677ffff6478ffff8079ffff8ccfffff4ad0ffff66d1ffff0eedffffccedffffe8eeffffb2f5ffff9efbffff0000000028310000563d000022570000
+    scrollPos: {x: 0, y: 851}
+    m_SelectedIDs: 78e7feff7ae7feff
+    m_LastClickedID: -71814
+    m_ExpandedIDs: 9efbffff00000000c0280000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -224,7 +224,7 @@ MonoBehaviour:
       m_ClientGUIView: {fileID: 5}
     m_SearchString: 
   m_ExpandedScenes:
-  - 
+  - Scene1
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
@@ -242,9 +242,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 323
+    x: 327
     y: 0
-    width: 765
+    width: 761
     height: 451
   m_MinSize: {x: 204, y: 221}
   m_MaxSize: {x: 4004, y: 4021}
@@ -277,9 +277,9 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
-    x: 325
+    x: 329
     y: 92
-    width: 761
+    width: 757
     height: 430
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
@@ -288,9 +288,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -86, y: 423.5, z: 0}
+    m_Target: {x: -510.7534, y: -226.84038, z: 382.18213}
     speed: 2
-    m_Value: {x: -86, y: 423.5, z: 0}
+    m_Value: {x: -510.7534, y: -226.84038, z: 382.18213}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -314,19 +314,19 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.05327257, y: 0.9325073, z: -0.15417479, w: -0.32221472}
+    m_Target: {x: -0.16291827, y: 0.44143716, z: -0.08185834, w: -0.8785728}
     speed: 2
-    m_Value: {x: -0.05327257, y: 0.9325073, z: -0.15417479, w: -0.32221472}
+    m_Value: {x: -0.16291827, y: 0.44143716, z: -0.08185834, w: -0.8785728}
   m_Size:
-    m_Target: 678.32556
+    m_Target: 708.096
     speed: 2
-    m_Value: 678.32556
+    m_Value: 708.096
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
   m_ShowGlobalGrid: 1
-  m_LastSceneViewRotation: {x: -0.21203613, y: 0.7269044, z: -0.25659543, w: -0.6006743}
+  m_LastSceneViewRotation: {x: -0.14974631, y: 0.022841537, z: -0.0034606077, w: -0.9884544}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
@@ -431,7 +431,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Public\Documents\Unity Projects\Treasure Hunt
+  m_LastProjectPath: C:\Users\jwana\Desktop\Everything Folder\Repositories\3D_Runescape
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
@@ -490,9 +490,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 
-    m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_SelectedInstanceIDs: 78e7feff7ae7feff
+    m_LastClickedInstanceID: -71814
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: 74360000ae2200001822000002220000fe2100001e220000122200000e220000862e000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0

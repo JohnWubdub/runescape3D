@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{B31BDAA3-F365-F053-08A2-5AA71D29AD14}</ProjectGuid>
+    <ProjectGuid>{0322E256-6053-A5C5-1394-2B7D9588D840}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor-firstpass</AssemblyName>
